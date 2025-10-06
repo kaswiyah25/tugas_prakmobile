@@ -14,4 +14,4 @@ Saat ini saya sedang belajar pemrograman mobile:
 | 7 |	25-09-2025 | 04 |	04	Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route |	[Modul 07](https://drive.google.com/file/d/1FL0RlUBs1ge5TwTdgPA2wp605XfkB7oV/view?usp=sharing) | [Tugas kas 7](https://drive.google.com/file/d/1Jrz_GQXMLNn7W_NvHIShl_KJhjuUVS-f/view?usp=drive_link)
 | 8 |	25-09-2025 | 04 |	04	Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://drive.google.com/file/d/10KMwv9Al60bD8qIRRBTVpdEmX8r6VcGl/view) | [Tugas kas 8](https://drive.google.com/file/d/1QWguEIMTJXrmAnBMJ9fq1a6XWVSy-1Fv/view?usp=drive_link)
 | 9 | 01-10-2025 |	05 |	05	StatefulWidget | 	[Modul 09](https://drive.google.com/file/d/1hMW8jVZg5sbH-9a0eH6hbaKgkREEBp1W/view) | [Tugas kas 9](https://drive.google.com/file/d/1AUE472Cx5azT29rPzXZ6e_eaUPO_IMz7/view?usp=drive_link)
-| 10 | 01-10-2025 |	06 |	06	Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter |	[Modul 10]() | [Tugas kas 9]
+| 10 | 01-10-2025 |	06 |	06	Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter |	[Modul 10]() | [Tugas kas 10]()
