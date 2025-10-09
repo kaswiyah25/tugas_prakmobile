@@ -5,7 +5,7 @@ Saat ini saya sedang belajar pemrograman mobile:
 
 | No  | Tgl  | Praktikum ke  | Topik  | Modul | Template Laporan |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Tugas 01](https://drive.google.com/file/d/1gkSyEsTfNp9OPXxcjoRGD5ERcOQTJzjX/view?usp=drive_link) |
+|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Tugas 01](https://drive.google.com/file/d/1gkSyEsTfNp9OPXxcjoRGD5ERcOQTJzjX/view?usp=drive_link) |[Code 1](https://github.com/kaswiyah25/Widget-Row-dan-Column)
 |  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Tugas 02](https://drive.google.com/file/d/1tv3RoHt-JgEK1CeAdiYun43wsrSzGq7F/view?usp=drive_link) |
 | 3 |	10-09-2025 | 02	| 02	Pengaturan Layout Row dan Column di Flutter |	[Tugas 03](https://drive.google.com/file/d/1_lc4PsQIGMVyI0op2DEaCsp94dkZkPck/view?usp=drive_link) | [Code 3](https://github.com/kaswiyah25/Layout-Row-dan-Column-di-Flutter-)
 | 4 |	10-09-2025 | 02 |	02	Widget Flexible dan Expanded	 | [Tugas 04](https://drive.google.com/file/d/1rrqFeN6FCupcyxpJKp1kDemrj27GXU7d/view?usp=drive_link) | [Code 4](https://github.com/kaswiyah25/Widget-Flexible-dan-Expanded-)
