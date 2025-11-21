@@ -1,7 +1,5 @@
-Hi saya Kaswiyah. 
-Saya mahasiswi Teknik Informatika.
-
-Saat ini saya sedang belajar pemrograman mobile:
+Hai! 
+Aku Kaswiyah, mahasiswi Teknik Informatika yang lagi berjuang memahami pemrograman mobile… kadang paham, kadang pusing, tapi tetap lanjut karena menyerah bukan opsiku 😆.
 
 | No  | Tgl  | Praktikum ke  | Topik  | Modul | Template Laporan |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
