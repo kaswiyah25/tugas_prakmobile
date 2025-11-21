@@ -18,3 +18,5 @@ Saat ini saya sedang belajar pemrograman mobile:
 | 11 | 15-10-2025 |	07 |	07	Manajemen State dengan GetX	 | [Tugas 11](https://drive.google.com/file/d/1XZzMF_E9RXUL24bZcEknxsh6iltDKfZX/view?usp=drive_link) | [Code 11](https://github.com/kaswiyah25/Manajemen-State-dengan-GetX)
 | 12 | 22-10-2025 |	08 |	08	UJIAN TENGAH SEMESTER	 | [UTS](https://drive.google.com/file/d/1sQsRWP16u4HDpwHWOiXW1H0zYSKO4m8f/view?usp=sharing) | [Code UTS](https://github.com/kaswiyah25/Crowdfunding-Islami-UTS-)
 | 13 | 12-11-2025 |	09 |	09	Akses Lokasi dengan GPS di Flutter | [Tugas 12](https://drive.google.com/file/d/10mnjHUO2jJPegLaE2vuB_lZU7dNJEn1e/view?usp=drive_link) | [Code 12](https://github.com/kaswiyah25/Akses-Lokasi-dengan-GPS-di-Flutter)
+| 14 | 18-11-2025 |	10 |	10	Akses Lokasi dengan GPS di Flutter + penambahan maps | [Tugas 13](https://drive.google.com/file/d/1CTgIgWMOhZroHfDbLFUakri0ofM7x2ui/view?usp=drive_link) | [Code 13](https://github.com/kaswiyah25/Penambahan-maps)
+| 15 | 20-11-2025 |	11 |	11	Operasi CRUD | [Tugas 14](https://drive.google.com/file/d/1cw8rm9Pg_IVWSY9IvhqbuTve8n2rhTsx/view?usp=drive_link) | [Code 14](https://github.com/kaswiyah25/Operasi-CRUD)
