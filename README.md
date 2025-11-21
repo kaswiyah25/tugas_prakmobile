@@ -1,6 +1,6 @@
-Hai!
-
-Aku Kaswiyah, mahasiswi Teknik Informatika yang lagi berjuang memahami pemrograman mobile… kadang paham, kadang pusing, tapi tetap lanjut karena menyerah bukan opsiku 😆.
+Hai!Aku Kaswiyah,
+mahasiswi Teknik Informatika yang lagi berjuang memahami pemrograman mobile…
+kadang paham, kadang pusing, tapi tetap lanjut karena menyerah bukan opsiku 😆.
 
 | No  | Tgl  | Praktikum ke  | Topik  | Modul | Template Laporan |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
